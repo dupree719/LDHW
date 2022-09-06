@@ -1,0 +1,16 @@
+#NOTES
+
+A class serves as a blueprint to create objects.
+
+Objects are an instance of a class.
+
+When creating an object in a class, must type as such: class_name var = new class_name()
+and then define the object.
+
+Variables and methods are encapsulated within the object and changing the variable in
+one object does not affect variables in another.
+
+"this" keyword = use the variables that are defined in a specific class
+
+Objects belong in separate "tester" class from main; Main is used for testing a real class and to launch/start your Java application
+Need TWO classes to create/use objects
